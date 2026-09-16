@@ -1,0 +1,16 @@
+collection_name: agent
+persist_directory: chroma_db
+k: 3
+vector_top_k: 8
+bm25_top_k: 8
+rrf_k: 60
+bm25_weight: 0.55
+rerank_top_n: 3
+enable_rerank: true
+data_path: data
+md5_hex_store: md5.txt
+allow_knowledge_file_type: ["txt","pdf"]
+
+chunk_size: 200
+chunk_overlap: 20
+separators: ["\n\n", "\n", ".", "!", "?", "。", "！", "？", " ", ""]

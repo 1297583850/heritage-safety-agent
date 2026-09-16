@@ -1,0 +1,152 @@
+[
+  {
+    "id": "Q01",
+    "question": "博物馆消防安全管理资料档案应抽查哪些内容？",
+    "expected_source": "博物馆火灾风险检查指引.txt",
+    "expected_keywords": ["资料档案抽查重点", "消防安全责任人", "隐患整改"]
+  },
+  {
+    "id": "Q02",
+    "question": "博物馆陈列展览厅应重点检查哪些消防安全问题？",
+    "expected_source": "博物馆火灾风险检查指引.txt",
+    "expected_keywords": ["陈列展览厅", "防火防烟分隔", "疏散通道"]
+  },
+  {
+    "id": "Q03",
+    "question": "博物馆藏品库有哪些典型火灾风险？",
+    "expected_source": "博物馆火灾风险防范指南.txt",
+    "expected_keywords": ["藏品库", "自动灭火系统", "移动式照明灯具"]
+  },
+  {
+    "id": "Q04",
+    "question": "博物馆装裱及修复室为什么容易产生火灾风险？",
+    "expected_source": "博物馆火灾风险防范指南.txt",
+    "expected_keywords": ["装裱", "修复室", "易燃可燃化学药品"]
+  },
+  {
+    "id": "Q05",
+    "question": "文物建筑中焚香、油灯、烛火区存在哪些明火源风险？",
+    "expected_source": "文物建筑火灾风险防范指南.txt",
+    "expected_keywords": ["焚香", "油灯", "烛火区", "明火源风险"]
+  },
+  {
+    "id": "Q06",
+    "question": "文物建筑现场拉动测试主要检查什么？",
+    "expected_source": "文物建筑火灾风险检查指引.txt",
+    "expected_keywords": ["现场拉动测试", "快速响应", "初起火灾"]
+  },
+  {
+    "id": "Q07",
+    "question": "文物建筑厨房火灾风险检查应关注哪些方面？",
+    "expected_source": "文物建筑火灾风险检查指引.txt",
+    "expected_keywords": ["厨房", "燃气管道", "油烟道"]
+  },
+  {
+    "id": "Q08",
+    "question": "文物建筑周边为什么要检查消防车通道是否被占用？",
+    "expected_source": "文物建筑火灾风险检查指引.txt",
+    "expected_keywords": ["消防车通道", "停车泊位", "灭火救援"]
+  },
+  {
+    "id": "Q09",
+    "question": "藏品防护一般应包括哪些方面的要求？",
+    "expected_source": "藏品防护.txt",
+    "expected_keywords": ["温湿度", "防潮", "防水", "防烟尘", "防盗"]
+  },
+  {
+    "id": "Q10",
+    "question": "藏品库房设置空气调节设备时，不同材质藏品的相对湿度推荐值有哪些？",
+    "expected_source": "藏品防护.txt",
+    "expected_keywords": ["相对湿度", "金银器", "纸质书画", "竹器", "墓葬壁画"]
+  },
+  {
+    "id": "Q11",
+    "question": "对光特别敏感的藏品，陈列室照度和色温应控制在什么范围？",
+    "expected_source": "藏品防护.txt",
+    "expected_keywords": ["对光特别敏感", "照度", "≤50LX", "色温"]
+  },
+  {
+    "id": "Q12",
+    "question": "藏品库房和陈列室应如何防虫防鼠？",
+    "expected_source": "藏品防护.txt",
+    "expected_keywords": ["防鼠", "防虫", "通风孔洞", "门与地面的缝隙"]
+  },
+  {
+    "id": "Q13",
+    "question": "馆藏木质文物保存环境的温度和相对湿度应控制在什么范围？",
+    "expected_source": "木质文物保存与保护.txt",
+    "expected_keywords": ["馆藏木质文物", "20℃", "50%～60%"]
+  },
+  {
+    "id": "Q14",
+    "question": "古建筑木结构温湿度监测有哪些精度和测点要求？",
+    "expected_source": "木质文物保存与保护.txt",
+    "expected_keywords": ["温湿度监测", "0.5℃", "2%", "1～3个测点"]
+  },
+  {
+    "id": "Q15",
+    "question": "古建筑木结构修复或更换承重构件时，木材选择有什么要求？",
+    "expected_source": "木质文物保存与保护.txt",
+    "expected_keywords": ["承重构件", "相同的树种", "原材料", "原工艺"]
+  },
+  {
+    "id": "Q16",
+    "question": "木质文物防虫防霉时，怎样的温湿度条件有利于抑制真菌生长？",
+    "expected_source": "木质文物保存与保护.txt",
+    "expected_keywords": ["防虫", "防霉", "15℃至25℃", "50%至65%"]
+  },
+  {
+    "id": "Q17",
+    "question": "泥质佛像雕塑文物保存环境的温度和相对湿度应是多少？",
+    "expected_source": "泥质佛像雕塑文物保存与保护.txt",
+    "expected_keywords": ["馆藏彩绘泥塑", "20℃", "40%～50%"]
+  },
+  {
+    "id": "Q18",
+    "question": "泥质佛像雕塑常见病害类型包括哪些？",
+    "expected_source": "泥质佛像雕塑文物保存与保护.txt",
+    "expected_keywords": ["裂隙", "起甲", "空鼓", "酥碱", "粉化"]
+  },
+  {
+    "id": "Q19",
+    "question": "彩绘泥塑保护修复应遵循哪些基本原则？",
+    "expected_source": "泥质佛像雕塑文物保存与保护.txt",
+    "expected_keywords": ["不改变文物原状", "最小干预", "可逆性", "可识别", "真实性"]
+  },
+  {
+    "id": "Q20",
+    "question": "泥质佛像雕塑表面污染物清理时应注意什么？",
+    "expected_source": "泥质佛像雕塑文物保存与保护.txt",
+    "expected_keywords": ["表面污染物", "积尘", "烟熏", "不得使用对文物本体造成损害"]
+  },
+  {
+    "id": "Q21",
+    "question": "中国文物古迹保护准则中，不改变原状原则是什么意思？",
+    "expected_source": "文物保护原则.txt",
+    "expected_keywords": ["不改变原状", "真实", "完整", "价值的载体"]
+  },
+  {
+    "id": "Q22",
+    "question": "文物古迹保护中的真实性原则包括哪些方面？",
+    "expected_source": "文物保护原则.txt",
+    "expected_keywords": ["真实性", "材料", "工艺", "设计", "环境"]
+  },
+  {
+    "id": "Q23",
+    "question": "最低限度干预原则为什么强调预防性保护？",
+    "expected_source": "文物保护原则.txt",
+    "expected_keywords": ["最低限度干预", "预防性保护", "保证文物古迹安全"]
+  },
+  {
+    "id": "Q24",
+    "question": "文物古迹保养维护和监测主要包括哪些内容？",
+    "expected_source": "文物保护措施.txt",
+    "expected_keywords": ["保养维护", "监测", "巡视", "消防", "环境质量监测"]
+  },
+  {
+    "id": "Q25",
+    "question": "壁画保护为什么不适合对缺失部分进行复原？",
+    "expected_source": "文物保护措施.txt",
+    "expected_keywords": ["壁画保护", "退化机理", "复原", "真实性"]
+  }
+]

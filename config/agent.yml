@@ -1,0 +1,8 @@
+external_data_path: data/external/records.csv
+
+weather_api_url: https://api.seniverse.com/v3/weather/daily.json
+weather_api_key: ""
+weather_language: zh-Hans
+weather_unit: c
+weather_start: -1
+weather_days: 5
